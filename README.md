@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -64,8 +63,12 @@
 </div>
 <div align="center">
   <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ritesh-gupta-op/output/github-contribution-grid-snake.svg" />
+  <!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/Ritesh-Gupta-op/Ritesh-Gupta-op/blob/output/github-snake-dark.svg)
+</div>
+
 
 ## 🌐 Connect with Me
 
