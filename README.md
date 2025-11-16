@@ -65,7 +65,7 @@
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ritesh-gupta-op/sohansarkar07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ritesh-gupta-op/output/github-contribution-grid-snake.svg" />
 
 ## 🌐 Connect with Me
 
