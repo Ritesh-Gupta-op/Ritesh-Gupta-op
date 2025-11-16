@@ -62,13 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-gupta-ope&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 <div align="center">
-  <h2> My Contributions </h2>
-  <!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/Ritesh-Gupta-op/Ritesh-Gupta-op/blob/output/github-snake-dark.svg)
-</div>
-
+  ![snake gif](https://github.com/Ritesh-Gupta-op/Ritesh-Gupta-op/blob/output/github-contribution-grid-snake.gif)
 
 ## 🌐 Connect with Me
 
