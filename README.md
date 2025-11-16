@@ -8,32 +8,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Hi!I+am+Ritesh+Gupta" alt="Typing SVG" />
 </h1>
 
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-gupta-317965383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/anuj_is_coding?t=WTywMPO-8hekMevL7gmZkg&s=09)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:kingofpirates451@gmail.com)
-
-</div>
-
-# 
-
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+am+Ritesh+Gupta+%F0%9F%9A%80;Full+Stack+Developer;Cloud+Enthusiast" alt="Typing SVG" />
 </h1>
 
 ---
 
-## 👨‍💻 About Me
-
-Well 
-
+## 👨‍💻 About 
+<p>
+ WELL!I am just a Nerd who loves learning new technologies and skills<Br \>
+  -A first year Engineering student<br  \> 
+  -catching new stacks like pokemon <br  \> 
+</p>
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -71,15 +55,17 @@ Well
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh-gupta-op&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-gupta-op&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-gupta-ope&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
-
----
+<div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ritesh-gupta-op/sohansarkar07/output/github-contribution-grid-snake.svg" />
 
 ## 🌐 Connect with Me
 
