@@ -1,7 +1,7 @@
 # 
 
 <div align="center">
-  <img src="https://motionbgs.com/media/3717/rainy-pine-forest.960x540.gif" alt="Rainy Pine Forest" width="100%"/>
+  <img src="https://github.com/Ritesh-Gupta-op/Ritesh-Gupta-op/issues/1#issue-3630731186" alt="Rainy Pine Forest" width="100%"/>
 </div>
 
 <h1 align="center">
