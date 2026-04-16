@@ -26,15 +26,15 @@ while contributing to the open source community and building cool stuff along th
 </p>
 
 📈 Activity Graph
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-Gupta-op&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-Gupta-op&theme=github-compact&hide_border=true" />
 </p>
-
 🔗 Connect with me
-<p align="left">
-  <a href="https://github.com/zeroschenieder">
-    <img src="https://img.shields.io/badge/GitHub-zeroschenieder-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://instagram.com/mybetterself_alive"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/anuj_is_coding"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://discord.com/users/ichigo_getsugatensho"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 <p align="center">
