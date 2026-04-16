@@ -12,14 +12,12 @@ while contributing to the open source community and building cool stuff along th
 
 
 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh-Gupta-op&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh-Gupta-op&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-Gupta-op&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-Gupta-op&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Ritesh-Gupta-op&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ritesh-Gupta-op&theme=github-dark-blue&hide_border=true" />
 </p>
 
 🏆 GitHub Trophies
