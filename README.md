@@ -40,6 +40,7 @@ while contributing to the open source community and building cool stuff along th
   </a>
 </div>
 
+![Metrics](https://github.com/Ritesh-Gupta-op/metrics/blob/main/metrics.svg)
 
 🔗 Connect with me
 <p align="center">
