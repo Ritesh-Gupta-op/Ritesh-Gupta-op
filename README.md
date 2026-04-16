@@ -1,8 +1,8 @@
-# ![Image](https://github.com/user-attachments/assets/5d273f56-ac15-4628-bf32-f6e7a0d9b6a3)
+# ![Image](https://github.com/user-attachments/assets/5d273f56-ac15-4628-bf32-f6e7a0d9b6a3) 
 
-Hey there 👋
+<h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm zeroschenieder — a passionate developer constantly exploring the depths of computing.
+I'ma passionate developer constantly exploring the depths of computing.
 Currently sharpening my skills across low-level systems and modern web stacks,
 while contributing to the open source community and building cool stuff along the way.
 
