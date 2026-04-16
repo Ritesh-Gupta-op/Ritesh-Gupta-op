@@ -10,25 +10,41 @@ while contributing to the open source community and building cool stuff along th
 
 ![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,html,css,linux,postman,git&perline=20)
 
+## GitHub Dashboard
 
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh-Gupta-op&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-Gupta-op&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ritesh-Gupta-op&theme=github-dark-blue&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Ritesh-Gupta-op&theme=light" alt="Contribution Stats" />
+</div>
 
-🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritesh-Gupta-op&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritesh-Gupta-op&theme=transparent" alt="Profile Details" />
+</div>
 
-📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-Gupta-op&theme=github-compact&hide_border=true" />
-</p>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ritesh-Gupta-op&theme=transparent&utcOffset=5.5" alt="Productive Time" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohansarkar07&theme=transparent" alt="Stats" />
+</div>
+
+
+<br/>
+
+## Language Activity
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-custom-gitblock.svg" />
+</div>
+<p align="center"><em>*The language charts are based on recent commits.</em></p>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-Gupta-op&theme=&github-compact&bg_color=none&color=808080&line=07cfe9&point=07cfe9&area=true&area_color=07cfe9&hide_border=true" alt="Ritesh Gupta's github activity graph" />
+  </a>
+</div>
+
+
+
+
+
+
 🔗 Connect with me
 <p align="center">
   <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
