@@ -17,7 +17,7 @@ while contributing to the open source community and building cool stuff along th
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritesh-Gupta-op&theme=transparent" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritesh-Gupta-op&theme=dark" alt="Profile Details" />
 </div>
 
 <div align="center">
