@@ -17,11 +17,11 @@ while contributing to the open source community and building cool stuff along th
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritesh-Gupta-op&theme=transparent" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritesh-Gupta-op&theme=transparent" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ritesh-Gupta-op&theme=transparent&utcOffset=5.5" alt="Productive Time" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohansarkar07&theme=transparent" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ritesh-Gupta-op&theme=transparent&utcOffset=5.5" alt="Productive Time" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ritesh-Gupta-op&theme=transparent" alt="Stats" />
 </div>
 
 
