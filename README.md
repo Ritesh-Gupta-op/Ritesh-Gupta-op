@@ -13,7 +13,7 @@ while contributing to the open source community and building cool stuff along th
 ## GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Ritesh-Gupta-op&theme=light" alt="Contribution Stats" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Ritesh-Gupta-op&theme=dark" alt="Contribution Stats" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@ while contributing to the open source community and building cool stuff along th
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ritesh-Gupta-op&theme=transparent&utcOffset=5.5" alt="Productive Time" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ritesh-Gupta-op&theme=transparent" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ritesh-Gupta-op&theme=dark&utcOffset=5.5" alt="Productive Time" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ritesh-Gupta-op&theme=dark" alt="Stats" />
 </div>
 
 
