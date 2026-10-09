@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Update contribution visuals
 
 on:
   schedule:
@@ -15,6 +15,25 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  calendar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Generate dark contribution calendar
+        run: python3 .github/scripts/update_contributions.py
+
+      - name: Save updated calendar
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          branch: main
+          file_pattern: contributions-dark.svg
+          commit_message: Update dark contribution calendar
+
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 10

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 240" width="100%" height="100%">
+  <style>
+    .terminal-bg { fill: #0f141c; rx: 8px; }
+    .header-bg { fill: #1e2229; }
+    .menu-text { font-family: "DejaVu Sans", "Noto Sans", sans-serif; font-size: 11px; fill: #abb2bf; }
+    .title { font-family: "DejaVu Sans", "Noto Sans", sans-serif; font-size: 11px; fill: #a0a8b5; }
+    .prompt-user { font-family: "JetBrains Mono", "Fira Code", monospace; font-size: 14px; fill: #1793d1; font-weight: bold; }
+    .prompt-path { font-family: "JetBrains Mono", "Fira Code", monospace; font-size: 14px; fill: #61afef; }
+    .prompt-symbol { font-family: "JetBrains Mono", "Fira Code", monospace; font-size: 14px; fill: #a0a8b5; }
+    .command { font-family: "JetBrains Mono", "Fira Code", monospace; font-size: 14px; fill: #e5c07b; }
+    .name-main { font-family: "DejaVu Sans", "Noto Sans", sans-serif; font-size: 32px; font-weight: 800; fill: #1793d1; letter-spacing: 0.5px; }
+    .name-sub { font-family: "DejaVu Sans", "Noto Sans", sans-serif; font-size: 32px; font-weight: 800; fill: #ffffff; letter-spacing: 0.5px; }
+    .info-text { font-family: "JetBrains Mono", "Fira Code", monospace; font-size: 13px; fill: #8b949e; }
+    .status-dot { fill: #1793d1; }
+    .status-text { font-family: "DejaVu Sans", "Noto Sans", sans-serif; font-size: 12px; fill: #8b949e; }
+    .cursor { fill: #1793d1; animation: blink 1s steps(1, start) infinite; }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Terminal Window Background (Arch Dark Theme) -->
+  <rect width="680" height="240" class="terminal-bg" />
+  <path d="M 0 8 A 8 8 0 0 1 8 0 L 672 0 A 8 8 0 0 1 680 8 L 680 32 L 0 32 Z" class="header-bg" />
+  <rect x="0" y="24" width="680" height="216" fill="#0f141c" />
+
+  <!-- Menu items instead of window buttons -->
+  <text x="16" y="20" class="menu-text">File</text>
+  <text x="48" y="20" class="menu-text">Edit</text>
+  <text x="80" y="20" class="menu-text">View</text>
+
+  <!-- Window Title -->
+  <text x="340" y="20" text-anchor="middle" class="title">kingofpirates@archlinux:~</text>
+
+  <!-- Status Indicator -->
+  <circle cx="615" cy="16" r="4" class="status-dot" />
+  <text x="627" y="20" class="status-text">online</text>
+
+  <!-- Terminal Content -->
+  <!-- Line 1: Command Prompt -->
+  <g transform="translate(24, 68)">
+    <text x="0" y="0">
+      <tspan class="prompt-user">[kingofpirates@archlinux</tspan>
+      <tspan class="prompt-path"> ~</tspan>
+      <tspan class="prompt-symbol">]$ </tspan>
+      <tspan class="command">whoami</tspan>
+    </text>
+  </g>
+
+  <!-- Line 2: Output Name -->
+  <g transform="translate(24, 118)">
+    <text x="0" y="0">
+      <tspan class="name-main">ritesh</tspan>
+      <tspan> </tspan>
+      <tspan class="name-sub">gupta</tspan>
+    </text>
+  </g>
+
+  <!-- Line 3: Details / Subtitle + Blinking Cursor placed precisely at the end of automation -->
+  <g transform="translate(24, 168)">
+    <text x="0" y="0" class="info-text">systemdesign / on-chain / deep-learning / automation</text>
+    <rect x="430" y="-11" width="10" height="16" class="cursor" />
+  </g>
+</svg>
