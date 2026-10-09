@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=61AFEF&center=true&vCenter=true&width=680&lines=systems+%7C+deep+learning+%7C+automation;turning+curiosity+into+working+software;learn+deeply.+build+deliberately." alt="Systems, deep learning and automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=61AFEF&center=true&vCenter=true&width=680&lines=systems+%7C+deep+learning+%7C+automation;Somewhere+along+the+way%2C+I+gave+up+on+love+and+embraced+the+love+for+AI+systems+%F0%9F%99%82;learn+deeply.+build+deliberately." alt="Systems, deep learning and automation" />
 </p>
 
 <table align="center">
