@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-## 🍂 a small autumn interlude
+## 🍂 A small autumn interlude
 
 <table align="center">
   <tr>
@@ -46,10 +46,10 @@
   </tr>
 </table>
 
-## 🧠 deep learning & machine learning
+## Stuff I am Learning....
 
 <p>
-  My deep learning foundation covers neural networks, backpropagation, optimization, and model evaluation. I’m interested in the full experiment loop: preparing data, training a model, understanding its errors, and improving how well it generalizes.
+  My deep learning  covers neural networks, backpropagation, optimization, and model evaluation. I’m interested in the full experiment loop: preparing data, training a model, understanding its errors, and improving how well it generalizes.
 </p>
 
 <p align="center">
