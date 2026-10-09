@@ -5,11 +5,9 @@
 I'ma passionate developer constantly exploring the depths of computing.
 Currently sharpening my skills across low-level systems and modern web stacks,
 while contributing to the open source community and building cool stuff along the way.
-
-🛠️ Languages & Tools
-
-![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,html,css,linux,postman,git&perline=20)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,linux,arch,docker,k8s,kafka,jenkins,git,postman&perline=20" width="100%" />
+</p>)
 ## GitHub Dashboard
 
 <div align="center">
