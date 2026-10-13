@@ -480,6 +480,9 @@
     <circle cx="644" cy="49" r="4" fill="#161b22" data-date="2026-10-06" data-level="0">
       <title>2026-10-06: activity level 0/4</title>
     </circle>
+    <circle cx="656" cy="49" r="4" fill="#161b22" data-date="2026-10-13" data-level="0">
+      <title>2026-10-13: activity level 0/4</title>
+    </circle>
     <circle cx="32" cy="61" r="4" fill="#161b22" data-date="2025-10-15" data-level="0">
       <title>2025-10-15: activity level 0/4</title>
     </circle>
