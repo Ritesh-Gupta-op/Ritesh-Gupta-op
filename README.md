@@ -107,16 +107,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 · YOUR PROJECT NAME</h3>
-      <p>Replace this text with a short description of your third project.</p>
-      <p><code>YOUR STACK</code></p>
-      <p><strong>Repository:</strong> <code>ASTE_REPO_URL_3</code></p>
+      <h3>03 · LicenseCraft</h3>
+      <p>Creators often rely on fragmented licensing tools, manual royalty tracking, and opaque approval flows. LicenseCraft consolidates licensing, wallet interactions, activity tracking, and transaction monitoring into a production-style operating layer on Stellar Soroban.</p>
+      <p><code>Rust | Soroban | Next.js | TypeScript | Stellar</code></p>
+      <p><strong>Repository:</strong> <a href="https://github.com/Ritesh-Gupta-op/digital_asset"><code>https://github.com/Ritesh-Gupta-op/digital_asset</code></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>04 ·</h3>
-      <p>Replace this text with a short description of your fourth project.</p>
-      <p><code>YOUR STACK</code></p>
-      <p><strong>Repository:</strong> <code>PASTE_REPO_URL_4</code></p>
+      <h3>04 · RecieptOnly (Backend)</h3>
+      <p>Local DKIM verification, a TypeScript SDK/CLI, a localhost development bridge, and a small Base Sepolia review contract. Raw source is processed locally without sending emails to third parties; only public review data goes to the chain.</p>
+      <p><code>TypeScript | Solidity | Hardhat | Base Sepolia | Node.js</code></p>
+      <p><strong>Repository:</strong> <a href="https://github.com/Nistha-verse/Reciept_only/tree/master"><code>https://github.com/Nistha-verse/Reciept_only</code></a></p>
     </td>
   </tr>
 </table>
