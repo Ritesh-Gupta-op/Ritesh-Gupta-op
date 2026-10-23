@@ -96,13 +96,13 @@
       <h3>01.Prompt_firewall </h3>
       <p>A backend-only prompt firewall with a reproducible security evaluation harness. There is no frontend. Python services are independent of the optional FastAPI adapter; SQLite stores runs, decisions, traces, and experiment results.</p>
       <p><code>Python | fastAPI | SQLite | AI/ML</code></p>
-      <p><strong>Repository:</strong> <code>https://github.com/Ritesh-Gupta-op/prompt_firewall_REPO_URL_1</code></p>
+      <p><strong>Repository:</strong> <a href="https://github.com/Ritesh-Gupta-op/prompt_firewall"><code>https://github.com/Ritesh-Gupta-op/prompt_firewall</code></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>02 · 3rd-router</h3>
       <p>A multi-stage AI workbench that routes and processes tasks across vision analysis, knowledge base retrieval, web-augmented reasoning, and code generation</p>
       <p><code>TypeScript | Python | CSS | HTML</code></p>
-      <p><strong>Repository:</strong> <code>https://github.com/ranitpal77/3rd-Route</code></p>
+      <p><strong>Repository:</strong> <a href="https://github.com/ranitpal77/3rd-Route"><code>https://github.com/ranitpal77/3rd-Route</code></a></p>
     </td>
   </tr>
   <tr>
